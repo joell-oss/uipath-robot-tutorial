@@ -33,6 +33,7 @@ Wróæ do UiPath. Klikaj¹c na **Indicate application to automate** w dodanej sekwe
 W sekcji **Do** naszej sekwencji bêdziemy dodawaæ kolejne kroki dzia³ania robota tzw. aktywnoœci. Pierwsz¹ aktywnoœci¹ bêdzie **Extract Table Data**. Wyszukaj nasz¹ aktywnoœæ w sekcji Activities i przeci¹gnij j¹ do sekcji Do.
 
 ![Wyszukiwanie Extract Table Data](media/image7.png)
+
 ![Dodanie aktywnoœci](media/image8.png)
 
 W dodanej aktywnoœci kliknij przycisk **Indicate in Chrome**.
