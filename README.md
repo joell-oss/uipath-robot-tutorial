@@ -155,6 +155,7 @@ Dodaj aktywnoœæ **Build Data Table**.
 Kliknij przycisk **DataTable...** i ustaw tabelê jak poni¿ej:
 
 ![Przycisk DataTable](media/image26.png)
+
 ![Konfiguracja kolumn](media/image27.png)
 
 ## 9. Dodanie wierszy do tabeli
